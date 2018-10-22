@@ -1,0 +1,167 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="anna.com" resolutions="1x" timestamp="1515101652119">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-__.css" crc="3802087100" ref="about:visual-design:portfolio:photograthy:contact:index:writings"/>
+    <file name="nomq_preview_master_a-__.css" crc="3824530138" ref="about:visual-design:portfolio:photograthy:contact:index:writings"/>
+    <file name="about.css" crc="144530899" ref="about"/>
+    <file name="visual-design.css" crc="144530899" ref="visual-design"/>
+    <file name="portfolio.css" crc="144530899" ref="portfolio"/>
+    <file name="photograthy.css" crc="144530899" ref="photograthy"/>
+    <file name="contact.css" crc="144530899" ref="contact"/>
+    <file name="index.css" crc="4030053327" ref="index"/>
+    <file name="nomq_index.css" crc="4088852078" ref="index"/>
+    <file name="writings.css" crc="4117265058" ref="writings"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:contact:writings:visual-design:photograthy"/>
+    <file name="museutils.js" crc="163421577" ref="index:about:portfolio:contact:writings:visual-design:photograthy"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:portfolio:contact:writings:visual-design:photograthy"/>
+    <file name="museconfig.js" crc="36584860" ref="index:about:portfolio:contact:writings:visual-design:photograthy"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:about:portfolio:contact:writings:visual-design:photograthy"/>
+    <file name="webpro.js" crc="3848665353" ref="index:writings"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index:writings"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index:writings"/>
+    <file name="touchswipe.js" crc="404375771" ref="index:writings"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:writings"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:about:portfolio:contact:writings:visual-design:photograthy"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:contact:writings:visual-design:photograthy"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index:about:portfolio:contact:writings:visual-design:photograthy"/>
+  </folder>
+  <folder name="images">
+    <file name="18750090223_4d1e75ef79_o.jpg" crc="4070749705" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="19194219929_ac92fc3f39_o.jpg" crc="4124821120" seo="true" ref="index"/>
+    <file name="19192820740_8d07fdee81_o.jpg" crc="4162132921" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="selfphoto.jpg" crc="203145820" ref="index"/>
+    <file name="img-1.jpg" crc="226373222" ref="index"/>
+    <file name="img-21-u861-r-fr.png" crc="3761188264" ref="index"/>
+    <file name="攝影作品 1.jpg" crc="417335577" ref="index"/>
+    <file name="設計 明信片正面.jpg" crc="251454776" ref="index"/>
+    <file name="設計 明信片正面-u2633-r-fr.png" crc="3870087672" ref="index"/>
+    <file name="041.jpg" crc="414508386" ref="index:writings"/>
+    <file name="042-u3743-r-fr.png" crc="3965183409" ref="index:writings"/>
+    <file name="043-u3743-m-fr.png" crc="3915921437" ref="index:writings"/>
+    <file name="u3738-4.png" crc="446911566" ref="index"/>
+    <file name="u3739-19.png" crc="504014850" ref="index"/>
+    <file name="img2-1-u970-fr.jpg" crc="4096751648" ref="index"/>
+    <file name="img2-22-u970-r-fr.png" crc="4073587948" ref="index"/>
+    <file name="img2-1.jpg" crc="166693652" ref="index"/>
+    <file name="0831.jpg" crc="4233715479" ref="index"/>
+    <file name="0831-u2665-r-fr.png" crc="228405467" ref="index"/>
+    <file name="231-u3093-fr.jpg" crc="3759052676" ref="index:writings"/>
+    <file name="232-u3093-r-fr.png" crc="54564681" ref="index:writings"/>
+    <file name="233-u3093-m-fr.png" crc="4145556775" ref="index:writings"/>
+    <file name="u3873-4.png" crc="368695403" ref="index"/>
+    <file name="u3874-42.png" crc="4043530412" ref="index"/>
+    <file name="img3-1-u925-fr.jpg" crc="4016074651" ref="index"/>
+    <file name="img3-22-u925-r-fr.png" crc="402680592" ref="index"/>
+    <file name="img3-1.jpg" crc="240173977" ref="index"/>
+    <file name="1111.jpg" crc="27795170" ref="index:writings"/>
+    <file name="1112-u1434-r-fr.png" crc="4227689319" ref="index:writings"/>
+    <file name="1113-u1434-m-fr.png" crc="195932151" ref="index:writings"/>
+    <file name="u3797-5.png" crc="122313898" ref="index"/>
+    <file name="u3798-22.png" crc="4017350801" ref="index"/>
+    <file name="設計 宣傳海報 3.jpg" crc="455032972" ref="index"/>
+    <file name="設計 宣傳海報 3-u2644-r-fr.png" crc="3871159296" ref="index"/>
+    <file name="selfphoto-u842-fr.jpg" crc="4285172000" ref="index"/>
+    <file name="img2-1-u976-fr.jpg" crc="232904719" ref="index"/>
+    <file name="img3-1-u931-fr.jpg" crc="4204222925" ref="index"/>
+    <file name="u3797-52.png" crc="4122985059" ref="index"/>
+    <file name="u3798-222.png" crc="3867186219" ref="index"/>
+    <file name="u3873-42.png" crc="4274437919" ref="index"/>
+    <file name="u3874-422.png" crc="4112947192" ref="index"/>
+    <file name="u3738-42.png" crc="446911566" ref="index"/>
+    <file name="u3739-192.png" crc="423373097" ref="index"/>
+    <file name="abef712a-defpenandtable001.jpg" crc="258021989" ref="writings"/>
+    <file name="11-u4525-fr.jpg" crc="4219390543" ref="writings"/>
+    <file name="12-u4525-r-fr.png" crc="344464812" ref="writings"/>
+    <file name="13-u4525-m-fr.png" crc="503071873" ref="writings"/>
+    <file name="u4531-4.png" crc="320483126" ref="writings"/>
+    <file name="u4530-19.png" crc="3786347300" ref="writings"/>
+    <file name="41-u5059-fr.jpg" crc="244048009" ref="writings"/>
+    <file name="42-u5059-r-fr.png" crc="253654605" ref="writings"/>
+    <file name="43-u5059-m-fr.png" crc="39378705" ref="writings"/>
+    <file name="u5063-4.png" crc="3865642534" ref="writings"/>
+    <file name="u5062-15.png" crc="477799503" ref="writings"/>
+    <file name="211-u5172-fr.jpg" crc="336408858" ref="writings"/>
+    <file name="212-u5172-r-fr.png" crc="3775606228" ref="writings"/>
+    <file name="213-u5172-m-fr.png" crc="4277077370" ref="writings"/>
+    <file name="u5178-4.png" crc="95839414" ref="writings"/>
+    <file name="u5177-47.png" crc="517416290" ref="writings"/>
+    <file name="241-u5263-fr.jpg" crc="157029755" ref="writings"/>
+    <file name="242-u5263-r-fr.png" crc="275282021" ref="writings"/>
+    <file name="243-u5263-m-fr.png" crc="141175849" ref="writings"/>
+    <file name="u5270-4.png" crc="4254403481" ref="writings"/>
+    <file name="u5271-34.png" crc="4155034182" ref="writings"/>
+    <file name="u5416-5.png" crc="122313898" ref="writings"/>
+    <file name="u5415-22.png" crc="4017350801" ref="writings"/>
+    <file name="341.jpg" crc="3787526613" ref="writings"/>
+    <file name="342-u5481-r-fr.png" crc="528147348" ref="writings"/>
+    <file name="343-u5481-m-fr.png" crc="3954047906" ref="writings"/>
+    <file name="u5472-5.png" crc="49194087" ref="writings"/>
+    <file name="u5473-23.png" crc="4160174562" ref="writings"/>
+    <file name="221-u4673-fr.jpg" crc="528948691" ref="writings"/>
+    <file name="222-u4673-r-fr.png" crc="405148716" ref="writings"/>
+    <file name="223-u4673-m-fr.png" crc="4238067730" ref="writings"/>
+    <file name="u4676-4.png" crc="3908638518" ref="writings"/>
+    <file name="u4677-39.png" crc="483295404" ref="writings"/>
+    <file name="21-u4981-fr.jpg" crc="4221024195" ref="writings"/>
+    <file name="22-u4981-r-fr.png" crc="149621683" ref="writings"/>
+    <file name="23-u4981-m-fr.png" crc="4251849851" ref="writings"/>
+    <file name="u4985-4.png" crc="4111245138" ref="writings"/>
+    <file name="u4984-17.png" crc="463464853" ref="writings"/>
+    <file name="51-u5072-fr.jpg" crc="3818797549" ref="writings"/>
+    <file name="52-u5072-r-fr.png" crc="5379243" ref="writings"/>
+    <file name="53-u5072-m-fr.png" crc="3879356693" ref="writings"/>
+    <file name="u5069-4.png" crc="4269757510" ref="writings"/>
+    <file name="u5070-15.png" crc="288465032" ref="writings"/>
+    <file name="251-u5250-fr.jpg" crc="381966335" ref="writings"/>
+    <file name="252-u5250-r-fr.png" crc="3991938764" ref="writings"/>
+    <file name="253-u5250-m-fr.png" crc="87561226" ref="writings"/>
+    <file name="u5256-4.png" crc="305200578" ref="writings"/>
+    <file name="u5255-39.png" crc="525552996" ref="writings"/>
+    <file name="321-u5373-fr.jpg" crc="121355753" ref="writings"/>
+    <file name="322-u5373-r-fr.png" crc="4234842179" ref="writings"/>
+    <file name="323-u5373-m-fr.png" crc="4258595938" ref="writings"/>
+    <file name="u5377-5.png" crc="8126962" ref="writings"/>
+    <file name="u5376-33.png" crc="195240530" ref="writings"/>
+    <file name="351.jpg" crc="209378039" ref="writings"/>
+    <file name="352-u5462-r-fr.png" crc="294300312" ref="writings"/>
+    <file name="353-u5462-m-fr.png" crc="3833478190" ref="writings"/>
+    <file name="u5459-5.png" crc="4099354446" ref="writings"/>
+    <file name="u5460-30.png" crc="3771509543" ref="writings"/>
+    <file name="331.jpg" crc="3840645521" ref="writings"/>
+    <file name="332-u4816-r-fr.png" crc="4126580772" ref="writings"/>
+    <file name="333-u4816-m-fr.png" crc="168549490" ref="writings"/>
+    <file name="u4826-5.png" crc="4160103855" ref="writings"/>
+    <file name="u4825-30.png" crc="3776824832" ref="writings"/>
+    <file name="u5024-4.png" crc="446911566" ref="writings"/>
+    <file name="u5023-19.png" crc="504014850" ref="writings"/>
+    <file name="61.jpg" crc="345122805" ref="writings"/>
+    <file name="62-u5085-r-fr.png" crc="532590031" ref="writings"/>
+    <file name="63-u5085-m-fr.png" crc="413798879" ref="writings"/>
+    <file name="u5091-4.png" crc="4108840760" ref="writings"/>
+    <file name="u5090-11.png" crc="431334530" ref="writings"/>
+    <file name="u5217-4.png" crc="368695403" ref="writings"/>
+    <file name="u5216-42.png" crc="4043530412" ref="writings"/>
+    <file name="261.jpg" crc="516868921" ref="writings"/>
+    <file name="262-u5280-r-fr.png" crc="479273772" ref="writings"/>
+    <file name="263-u5280-m-fr.png" crc="291959185" ref="writings"/>
+    <file name="u5286-4.png" crc="319753375" ref="writings"/>
+    <file name="u5285-38.png" crc="4166876780" ref="writings"/>
+    <file name="361.jpg" crc="4022625342" ref="writings"/>
+    <file name="362-u5451-r-fr.png" crc="3936872340" ref="writings"/>
+    <file name="363-u5451-m-fr.png" crc="4111738056" ref="writings"/>
+    <file name="u5455-5.png" crc="3945569293" ref="writings"/>
+    <file name="u5454-23.png" crc="3758212463" ref="writings"/>
+  </folder>
+  <file name="index.html" crc="4028285085" seo="true" mt="1515101341257" redirect="true"/>
+  <file name="about.html" crc="268819457" seo="true" mt="1515078130786" redirect="true"/>
+  <file name="portfolio.html" crc="113272557" seo="true" mt="1515078130786" redirect="true"/>
+  <file name="contact.html" crc="273848338" seo="true" mt="1515078130786" redirect="true"/>
+  <file name="writings.html" crc="310038801" seo="true" mt="1515096308920" redirect="true"/>
+  <file name="visual-design.html" crc="3845911860" seo="true" mt="1515078130786" redirect="true"/>
+  <file name="photograthy.html" crc="3826278344" seo="true" mt="1515078130786" redirect="true"/>
+</manifest>
